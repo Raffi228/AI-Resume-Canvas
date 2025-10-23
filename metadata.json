@@ -1,0 +1,5 @@
+{
+  "name": "AI Resume Canvas",
+  "description": "A freeform canvas resume builder with an AI coach. Users can drop unstructured notes and images, get guidance from an AI assistant, and generate a polished, editable resume for export.",
+  "requestFramePermissions": []
+}
